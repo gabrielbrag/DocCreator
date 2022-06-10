@@ -1,0 +1,107 @@
+{
+    "keys": [
+        {
+            "Nome do Cliente": {
+                "tag": "cliente"
+            },
+            "CPF/CNPJ Cliente": {
+                "tag": "clientecpfcnpj"
+            },
+            "RG Cliente": {
+                "tag": "clienterg"
+            },
+            "Telefone": {
+                "tag": "clientetel"
+            },
+            "Cidade": {
+                "tag": "clientecid"
+            },
+            "Bairro": {
+                "tag": "clientebairro"
+            },
+            "Logradouro": {
+                "tag": "clientelog"
+            },
+            "Nº Endereço": {
+                "tag": "clienteendenum"
+            },
+            "Complemento Endereço": {
+                "tag": "clientecomp"
+            }
+        },
+        {
+            "Vendedor": {
+                "tag": "vendedor",
+                "defaultValue": "Braga Motors"
+            },
+            "CNPJ Vendedor": {
+                "tag": "vendedorcnpj",
+                "defaultValue": "46.026.841/0001-79"
+            }
+        },
+        {
+            "Marca Veículo": {
+                "tag": "veicmarca"
+            },
+            "Modelo": {
+                "tag": "veicmodelo"
+            },
+            "Cor": {
+                "tag": "veiccor"
+            },
+            "Combustivel": {
+                "tag": "veiccombustivel"
+            },
+            "Vendedor": {
+                "tag": "veicvendedor"
+            },
+            "Data da venda": {
+                "tag": "veicdatavenda"
+            },
+            "Ano Fabricação": {
+                "tag": "veicanofab"
+            },
+            "Ano Modelo": {
+                "tag": "veicanomodelo"
+            },
+            "Quilometragem": {
+                "tag": "veickm"
+            },
+            "Placa": {
+                "tag": "veicplaca"
+            },
+            "Renavam": {
+                "tag": "veicrenavam"
+            },
+            "Chassi": {
+                "tag": "veicchassi"
+            }
+        },
+        {
+            "Valor de tabela": {
+                "tag": "valortabela"
+            },
+            "Valor de desconto": {
+                "tag": "valordesconto"
+            },
+            "Valor da venda": {
+                "tag": "valorvenda"
+            },
+            "Forma de Pagamento": {
+                "tag": "formapag"
+            },
+            "Data Pagamento": {
+                "tag": "datapag"
+            },
+            "Descrição Pagamento": {
+                "tag": "descpag"
+            }
+        },
+        {
+            "Observações": {
+                "tag": "observacoes",
+                "largeField":true
+            }
+        }
+    ]
+}
