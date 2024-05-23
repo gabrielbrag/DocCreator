@@ -7,6 +7,7 @@ class docManager:
         self.docName    = ''
     
     def replaceKeys(self, keyPack):
+        
         for keyGroup in keyPack:
             for key in keyGroup:
                 for paragraph in self.document.paragraphs:
